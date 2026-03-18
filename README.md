@@ -1,9 +1,9 @@
 # Action-Diffusion Policy with EMA for Multimodal Manipulation
 
 <p align="center">
-  <video src="https://github.com/hyomuk-kim/action-diffusion-pusht/raw/main/eval_results/eval_ep_17_SUCCESS_reward_1.00.mp4" width="100%" autoplay loop muted playsinline controls></video>
+  <img src="eval_results/success_rollout.gif" width="50%" alt="Push-T Success Rollout">
   <br>
-  <em>EMA Diffusion Policy (H=8) successfully completing the Push-T task.</em>
+  <em>EMA Diffusion Policy successfully completing the Push-T task.</em>
 </p>
 
 Implementation of an Action-Diffusion Policy with Exponential Moving Average (EMA) and Action Chunking for multimodal manipulation on the Push-T task. 
