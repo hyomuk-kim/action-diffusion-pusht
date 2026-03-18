@@ -61,7 +61,8 @@ python eval.py --checkpoint checkpoints_ema/diffusion_ema_ckpt_latest.pth --use_
 ```
 
 ## 📊 Results & Artifacts
-* **Checkpoints:** Pre-trained weights (`.pth`) are stored in `checkpoints/`.
+* **Pre-trained Weights:** Due to GitHub's file size limits, model weights are hosted on Google Drive. 
+  * [Download checkpoints here](https://drive.google.com/drive/folders/1eHrKflhXoysesMHpm0mSaNnwx8EtsPkr?usp=sharing)
 * **Logs:** Training progression (Loss, LR) is tracked in the `logs/` directory.
 * **Videos:** Evaluation videos demonstrating the agent's performance can be found in `eval_results/`.
 
