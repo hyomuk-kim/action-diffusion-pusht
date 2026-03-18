@@ -1,0 +1,11 @@
+torch==2.7.1
+torchvision==0.22.1
+diffusers==0.35.2
+gymnasium==1.2.3
+gym-pusht==0.1.6
+numpy==2.2.6
+opencv-python==4.13.0.92
+tqdm==4.67.3
+matplotlib==3.10.8
+pandas==2.3.3
+git+https://github.com/huggingface/lerobot.git@095856b06af7e4bd6e79f9f741303701d052ba2d
